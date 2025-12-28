@@ -6,7 +6,7 @@ analytical calculations to full CAD modeling and assembly.
 
 ## Project Contents
 - Gear ratio and strength calculations
-- Shaft and key design
+- Shaft,Bearing,Coupling,Gears,Pulley and key design
 - Complete CAD parts and assemblies
 - Engineering drawings
 
